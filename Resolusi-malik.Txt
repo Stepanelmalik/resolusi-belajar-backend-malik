@@ -2,3 +2,5 @@ Resolusi malik
 - belajar git dan github
 - belajar konsisten
 - belajar bahasa inggris
+- belajar html
+- belajar css
