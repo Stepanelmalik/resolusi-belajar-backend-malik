@@ -1,5 +1,6 @@
 belajar dasar javascript
 belajar algoritma
 belajar data struktur
-belajar frameworks
+belajar frameworks javascript
 belajar dengan giat
+belajar golang
