@@ -4,3 +4,4 @@ belajar data struktur
 belajar frameworks javascript
 belajar dengan giat
 belajar golang
+belajar SSH
