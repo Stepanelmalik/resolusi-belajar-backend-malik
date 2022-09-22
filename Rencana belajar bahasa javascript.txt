@@ -1,5 +1,5 @@
 belajar dasar javascript
 belajar algoritma
 belajar data struktur
-belajar frameworks
 belajar dengan giat
+belajar dasar PHP
