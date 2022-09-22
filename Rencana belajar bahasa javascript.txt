@@ -1,5 +1,7 @@
 belajar dasar javascript
 belajar algoritma
 belajar data struktur
+belajar frameworks javascript
 belajar dengan giat
-belajar dasar PHP
+belajar golang
+belajar SSH
